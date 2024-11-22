@@ -1,7 +1,6 @@
 # Problem Statement and Opportunities
 
-## Description  
-"Breaking barriers to renewable energy investments by unlocking untapped opportunities with blockchain."
+## Breaking barriers to renewable energy investments by unlocking untapped opportunities with blockchain.
 
 ---
 
@@ -32,7 +31,6 @@ VIRIDIANUM capitalizes on untapped opportunities to make renewable energy invest
 ---
 
 ## Conclusion  
-### Summary  
 1. **Problem Solved:** VIRIDIANUM eliminates barriers like high entry costs, inefficiencies, and lack of transparency, creating a sustainable investment ecosystem.
 2. **Opportunities Realized:** By leveraging blockchain and tokenization, the platform opens up new opportunities for global renewable energy investments.
 
