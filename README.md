@@ -1,5 +1,4 @@
 # Problem Statement and Opportunities
-
 ## Breaking barriers to renewable energy investments by unlocking untapped opportunities with blockchain.
 
 ---
